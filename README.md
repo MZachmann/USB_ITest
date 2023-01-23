@@ -9,4 +9,4 @@ This is specifically designed to work out-of-the-box with a Raspberry Pi Pico or
 
 This contains the importable schematic, layout, bom, and gerbers from EasyEDA for direct production by JLCPCB.
 
-For the entire writeup see [Make a Usb Charger and Current Tester](URL=https://medium.com/home-wireless/make-a-usb-charger-and-current-tester-99f3795060f4)
+For the entire writeup see [Make a Usb Charger and Current Tester](https://medium.com/home-wireless/make-a-usb-charger-and-current-tester-99f3795060f4)
